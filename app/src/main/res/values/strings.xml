@@ -3,4 +3,5 @@
     <string name="set_alarm">Set Alarm</string>
     <string name="cancel_alarm">Cancel Alarm</string>
     <string name="stop_alarm">Stop Alarm</string>
+    <string name="template">TEMPLATE</string>
 </resources>

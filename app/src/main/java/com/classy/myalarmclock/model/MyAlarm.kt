@@ -10,7 +10,7 @@ class MyAlarm(hours : Int, minutes: Int) {
     }
 
     override fun toString(): String {
-        return "MyAlarm(hours=$hours, minutes=$minutes)"
+        return "$hours:$minutes"
     }
 
 
